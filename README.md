@@ -12,3 +12,5 @@ web developer and computer science student
 - 🌎 Based in Brazil
 - ☕ Runs on coffee and good music
 
+## My Tech Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,styledcomponents,tailwind,java,spring,mysql,docker,aws,linux,github,postman)](https://skillicons.dev)
