@@ -7,7 +7,7 @@ web developer and computer science student
 - 🖥️ Strong background in infrastructure (servers, networks, cloud)
 - 🔄 Currently transitioning to web development
 - 💡 Passionate about building things with code
-- ⚛️ Learning and working with React, Typescript and Spring Boot
+- ⚛️ Exploring and building with React, TypeScript, and Spring Boot
 - 📚 Always curious, always learning
 - 🌎 Based in Brazil
 - ☕ Runs on coffee and good music
