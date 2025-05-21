@@ -1,5 +1,5 @@
 ## Hello! 👋 I'm Ivan
-computer science student and web developer
+web developer and computer science student
 
 
 🧑‍💻 About me
