@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello! 👋 I'm Ivan
+computer science student and web developer
 
-<!--
-**IvanCSantos/IvanCSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🧑‍💻 About me
+- 💼 12+ years working in IT
+- 🖥️ Strong background in infrastructure (servers, networks, cloud)
+- 🔄 Currently transitioning to web development
+- 💡 Passionate about building things with code
+- ⚛️ Learning and working with React, Typescript and Spring Boot
+- 📚 Always curious, always learning
+- 🌎 Based in Brazil
+- ☕ Runs on coffee and good music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
