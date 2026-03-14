@@ -3,7 +3,7 @@ web developer and computer science student
 
 
 🧑‍💻 About me
-- 💼 12+ years working in IT
+- 💼 18+ years working in IT
 - 🖥️ Strong background in infrastructure (servers, networks, cloud)
 - 🔄 Currently transitioning to web development
 - 💡 Passionate about building things with code
